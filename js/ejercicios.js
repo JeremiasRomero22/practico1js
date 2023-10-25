@@ -12,3 +12,10 @@ console.log("numero1" - numero2)
 console.log("numero1" * numero2)
 console.log("numero1" / numero2)
 
+//EJERCICIO 2
+const nombre = "Jeremias"
+const apellido = "Romero"
+
+const nombreCompleto = nombre + apellido
+
+console.log("Nombre Completo" + nombreCompleto)
