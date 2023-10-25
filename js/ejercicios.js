@@ -19,3 +19,11 @@ const apellido = "Romero"
 const nombreCompleto = nombre + apellido
 
 console.log("Nombre Completo" + nombreCompleto)
+
+//EJERCICIO 3
+const gradosCelsius = 5
+
+const gradosFahrenheit = (gradosCelsius * 9/5) + 32
+
+console.log("Grados Celsius" + gradosCelsius);
+console.log("Grados Fahrenhreit" + gradosFahrenheit);
