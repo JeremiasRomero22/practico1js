@@ -1,4 +1,5 @@
 //EJERCICIO 1 
+
 const numero1 = 10
 const numero2 = 5
 
@@ -27,3 +28,11 @@ const gradosFahrenheit = (gradosCelsius * 9/5) + 32
 
 console.log("Grados Celsius" + gradosCelsius);
 console.log("Grados Fahrenhreit" + gradosFahrenheit);
+
+//EJERCICIOS DEL CAMPUS
+//1
+alert("un mensaje")
+
+//2
+document.write("Hello word")
+
